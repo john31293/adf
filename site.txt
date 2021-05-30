@@ -1,7 +1,2 @@
 http://chefilan.com/blog/wp-login.php
-https://ensolarenergia.com.br/wp-login.php
-http://www.pcp.org.nz/wp-login.php
-https://dcdgr.ru/wp-login.php
-http://sohopo.com/wp-login.php
-http://aironecityhotel.com/wp-login.php
-http://www.theramednuclear.co.za/wp-login.php
+
